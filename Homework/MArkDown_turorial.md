@@ -3,9 +3,7 @@
 ## Заголовки 
  
 
-## Работа со списками
-
-Для работы со списками необходимо
+## Работа со списками.
 
 Для разметки неупорядоченных списков можно использовать
 или `*`, или `-`, или `+`:
@@ -49,7 +47,7 @@ minus sed fuga odio dolore natus quas cum enim
 necessitatibus magni provident non saepe sequi?
 *   Четыре абзац (Четыре пробела в начале или один tab).
 
-## Работа с Изображениями
+## Работа с изображениями.
 
 Чтобы добавить изображение в MarkDown, используйте следующую конструкцию:
 !["Альтернативныйтекст"](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/140-P1020281_-_Flickr_-_Laurie_Nature_Bee.jpg/1280px-140-P1020281_-_Flickr_-_Laurie_Nature_Bee.jpg)
